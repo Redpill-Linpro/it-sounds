@@ -8,6 +8,8 @@ The sounds that soothe and smooth your mind. Listen to these tracks when you wan
 
 ## 🚀 Installation
 
+0. Install git-lfs before cloning the repository.
+
 1. Clone the repository and cd into it
 
 2a. Play in terminal, PC: `start wmplayer ./.mp3"`
